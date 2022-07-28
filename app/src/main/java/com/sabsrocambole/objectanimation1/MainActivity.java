@@ -8,6 +8,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
+
+//Versão um
 public class MainActivity extends AppCompatActivity {
 
     //criamos esse flag para que ele detecte quando a animação já aconteceu, para que se a pessoa apertar o mesmo botão novamente a animação tenha o efeito reverso.
